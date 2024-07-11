@@ -71,12 +71,12 @@
   padding-top: 70px;
   padding-bottom: 70px;
   border-radius: 15px;
-  padding-left: 20px;
+  padding-left: 0px;
   padding-right: 30px;
   box-shadow: 0 4px 6px rgba(236, 231, 231, 0.1);
   width: 320px; 
   filter: brightness(0.5) contrast(0.8);
- margin-right: 100px;
+ margin-right: 350px;
 }
 
 .form-container form {
